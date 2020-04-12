@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "responsive website",
   "main": "index.js",
-  "homepage":"https://deepanshu24419.github.io/modern_portfolio",
+  "homepage":"https://deepanshu24419.github.io/modernPortfolio",
   
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
